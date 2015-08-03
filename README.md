@@ -6,7 +6,7 @@ Test mobile application built with PhoneGap and Ionic framework.
 
 This demo contains or includes following things:
 
-_This demo should present all key features of Test mobile application built with PhoneGap and Ionic framework framework, including all available widgets and page themes. Plus it should also contain examples of translation library for multi-language mobile apps and other libraries useful in modern mobile apps development like [meSpeak.js](http://www.masswerk.at/mespeak/) and others._
+_This demo should present all key features of Ionic framework, including all available widgets and page themes. Plus it should also contain examples of translation library for multi-language mobile apps and other libraries useful in modern mobile apps development like [meSpeak.js](http://www.masswerk.at/mespeak/) and others._
 
 ## About framework
 
